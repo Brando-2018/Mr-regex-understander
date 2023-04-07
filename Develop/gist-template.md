@@ -47,6 +47,6 @@ In our pattern, we use + to match one or more digits, and * to match zero or mor
 
     \/ - matches a forward slash
 ## Author
-    This tutorial was written by Brandon Tai, a web development student. You can find more of my work on @Brando-2018.
+    This tutorial was written by Brandon Tai, a web development student. You can find more of my work on https://github.comBrand0-2018.
 
     I hope this tutorial helps you understand regular expressions better and how to apply them in your own projects. If you have any questions, feel free to leave a comment or reach out to me on GitHub.
